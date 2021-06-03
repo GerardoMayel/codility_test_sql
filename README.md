@@ -1,0 +1,1 @@
+# codility_test_sql
